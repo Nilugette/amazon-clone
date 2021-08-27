@@ -1,4 +1,4 @@
-Run this app on https://amazon-clone-neon-rho.vercel.app/
+Run this app on https://amazon-clone-nilugette.vercel.app/
 
 # Installation Steps
 
